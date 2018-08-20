@@ -1,2 +1,2 @@
-# smart-contracts
+# MONEYNET.IO SMART CONTRACTS
 ICO and PreICO Solidity Contracts for MONEYNET.IO
