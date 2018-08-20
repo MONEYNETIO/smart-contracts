@@ -1,11 +1,17 @@
-# ![alt text](https://www.moneynet.co.kr/files/attach/images/130/8f809e215b4c34b3d05d34961abf5149.png) 
-# Smart Contracts
+# ![alt text](https://token.moneynet.io/img/logo_mnc_b.png) 
+# MONEYNET Ethereum Smart Contracts
 
-ICO and PreICO Solidity Contracts for MONEYNET.IO
-Currently a work in progress.
+MONEYNET COIN Contract address: 0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31 (do not send ETH here)
 
-# Contract Address
-## Token Testnet
-  * Etherscan: https://ropsten.etherscan.io/address/0x731c409608fb7eeac7fc7667285667c7737e2edf
-## Crowdsale Testnet
-  * Etherscan: https://ropsten.etherscan.io/address/0xe26f882447b40b90105450333d356566f8a78926
+MONEYNET ICO WEBSITE - Please visit https://moneynet.io
+
+-----------------
+# Introducing MONEYNET
+MONEYNET is one of the major cryptocurrency communities in Korea. <br>
+MONEYNET provides various information such as the latest news on blockchain and cryptocurrencies, investment information, chart analysis, promising coin analysis/recommendation for investors, as well as basic courses for beginners.
+
+Based on several years of know-how and technology network, MONEYNET will be recreated as a ‘user incentive’ community that users can receive a fair and reasonable reward for the value they created.
+
+
+# MONEYNET TOKEN ECONOMY
+# ![alt text](https://moneynet.io/wp-content/uploads/2018/08/moneynet_token_economy_v4_en.png) 
