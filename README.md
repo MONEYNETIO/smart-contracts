@@ -5,7 +5,7 @@ ICO and PreICO Solidity Contracts for MONEYNET.IO
 Currently a work in progress.
 
 # Contract Address
-## Token TestNet
+## Token Testnet
   * Etherscan: https://ropsten.etherscan.io/address/0x731c409608fb7eeac7fc7667285667c7737e2edf
-## Crowdsale TestNet
+## Crowdsale Testnet
   * Etherscan: https://ropsten.etherscan.io/address/0xe26f882447b40b90105450333d356566f8a78926
